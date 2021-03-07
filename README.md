@@ -10,7 +10,7 @@ Nonetheless, our Pokedex still stays light as we could have taken much more data
 
 ##### Requirements
 
-Since pokedex.org is a dynamic website, you will need to install the selenium package (which should be already available if you have Anaconda). You should also need an appropriate driver for your web browser which are all available on https://www.selenium.dev/downloads/ if you are using a regular browser. Mozilla Firefox users like me could take a look at the Github repository for GeckoDriver : https://github.com/mozilla/geckodriver/releases
+Since pokedex.org is a dynamic website, you will need to install the selenium package (which should be already available if you have Anaconda). You should also need an appropriate driver for your web browser which are all available on https://www.selenium.dev/downloads/ if you are using a regular browser. Mozilla Firefox users could take a look at the Github repository for GeckoDriver : https://github.com/mozilla/geckodriver/releases
 
 ##### Inquiries
 
