@@ -4,7 +4,7 @@
 
 ##### Description
 
-This project aims to complete a so-called "Pokedex" using available data on Bulbapedia. We begin with a small database containing names, HPs, types ect. and we add informations such as height, weight, catch rate and hatch steps.
+This project aims to complete a so-called "Pokedex" using available data on the community driven website bulbapedia.bulbagarden.net. We begin with a small database containing names, HPs, types ect. and we add informations such as height, weight, catch rate and hatch steps.
 
 <p align='center'><img src="https://github.com/GaetanLF/Fill-the-Pokedex/blob/main/Bulbasaur.png" alt="Bulbasaur's infos" /></p>
 
