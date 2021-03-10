@@ -10,7 +10,7 @@ This project aims to complete a so-called "Pokedex" using available data on the 
 
 <p align="center"><i>Here are some informations available on Bulbapedia for Bulbasaur</i></p>
 
-Nonetheless, this Pokedex still stays light as we could have taken much more data. I've decided not to take it as this shouldn't be relevant for the original task (which was to make some dataviz about pokemons within the framework of our Python assignment at Paris 1 Pantheon-Sorbonne University).
+Nonetheless, this Pokedex still stays light as we could have taken much more data. I've decided not to take it as this shouldn't be relevant for the original task (which was to make some dataviz about pokemons within the framework of our Python assignment at Paris 1 Pantheon-Sorbonne University). The Python script could also be improved as it seems that some data have been left empty because of some pages' the different structures ; I have only taken this into account for 'Mega Pokémons' from Gen. 6.
 
 You can use either the raw program (FtP.py) or the Notebook (FtP.ipynb). The last one explains step by step the methodology and should be usefull for beginners as you can not directly run this program : you might want to make some adjustments regarding pathfiles if needed.
 
