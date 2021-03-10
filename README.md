@@ -18,6 +18,8 @@ You can use either the raw program (FtP.py) or the Notebook (FtP.ipynb). The las
 
 Since Bulbapedia is a dynamic website, you will need to install the selenium package (which should be already available if you have Anaconda). You should also need an appropriate driver for your web browser which are all available on https://www.selenium.dev/downloads/ if you are using a regular browser. Mozilla Firefox users could take a look at the Github repository for GeckoDriver : https://github.com/mozilla/geckodriver/releases and Chrome users should dwell on ChromeDriver : https://chromedriver.chromium.org/downloads . 
 
+**Please fill all pathfiles, if necessary, at the beginning of the file.**
+
 ##### Inquiries
 
 For any inquiry about the Notebook, please contact me at : gaetan.le-floch@etu.univ-paris1.fr
