@@ -37,9 +37,9 @@ def driverGUI(path,GUI=True):
     if GUI == False:
         options = Options()
         options.headless = True # Options hide the GUI (Chrome will not be seen as launched)
-        driver = webdriver.Chrome(options=options, executable_path=path) # Chrome is launched
+        driver = webdriver.Chrome(options=options, executable_path=driverPath) # Chrome is launched
     else:
-        driver = webdriver.Chrome(executable_path=path) # Chrome is launched
+        driver = webdriver.Chrome(executable_path=driverPath) # Chrome is launched
     return(driver)
 #-----------------------------------------------------------------------------
 
