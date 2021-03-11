@@ -19,8 +19,8 @@ import os
 
 #---------------- PLEASE MODIFY THOSE PATHS IF NECESSARY ---------------------
 
-driverPath = "C:\\Users\\gaeta\\Desktop\\M1 Eco-Stat\\S2\\Python\\chromedriver.exe"
-pathfile = "C:\\Users\\gaeta\\Desktop\\M1 Eco-Stat\\S2\\Python\\data\\Pokemon.csv"
+driverPath = ".//chromedriver.exe"
+pathfile = ".//Pokemon.csv"
 
 #-----------------------------------------------------------------------------
 
