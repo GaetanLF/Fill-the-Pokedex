@@ -213,7 +213,7 @@ def modifMaleRatio(x):
         return (x)
     
 def modifStats(x):
-    if str(x) == 'nan':
+    if str(x) == 'nan' or str(x) == '':
         return(np.nan)
     return(float(str(x).split()[0]))
     
