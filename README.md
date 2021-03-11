@@ -1,4 +1,4 @@
-# Fill the Pokedex : how to perform a simple web scrapping on a dynamic website
+# Fill the Pokedex : how to perform a straightforward web scrapping on a dynamic website
 ### Python | Pandas, Selenium, Os, Numpy
 #### **Author : Gaëtan LE FLOCH**
 
