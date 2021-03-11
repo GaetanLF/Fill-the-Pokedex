@@ -22,4 +22,4 @@ Since Bulbapedia is a dynamic website, you will need to install the selenium pac
 
 ##### Inquiries
 
-For any inquiry about the Notebook, please contact me at : gaetan.le-floch@etu.univ-paris1.fr
+For any inquiry about the script, please contact me at : gaetan.le-floch@etu.univ-paris1.fr
