@@ -18,10 +18,8 @@ import os
 
 
 #---------------- PLEASE MODIFY THOSE PATHS IF NECESSARY ---------------------
-
 driverPath = ".//chromedriver.exe"
 pathfile = ".//Pokemon.csv"
-
 #-----------------------------------------------------------------------------
 
 
